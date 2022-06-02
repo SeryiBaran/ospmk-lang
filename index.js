@@ -27,7 +27,7 @@ const operations = {
     console.log('"<": decrement counter');
   },
   "?": () => {
-    console.log(`\"?\": counter is ${counter}`);
+    console.log(`"?": counter is ${counter}`);
   },
 };
 
