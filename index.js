@@ -12,22 +12,19 @@ let counter;
 
 const operations = {
   "!": () => {
-    console.log('"!": Hello, World!');
+    console.log('Hello, World!');
   },
   "@": () => {
     counter = 0;
-    console.log('"@": init/re-init counter (default 0)');
   },
   ">": () => {
     counter++;
-    console.log('">": increment counter');
   },
   "<": () => {
     counter--;
-    console.log('"<": decrement counter');
   },
   "?": () => {
-    console.log(`"?": counter is ${counter}`);
+    console.log(`counter is ${counter}`);
   },
 };
 
