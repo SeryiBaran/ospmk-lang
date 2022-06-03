@@ -6,7 +6,7 @@
 ![Screenshot of work](screenshot.png "Screenshot of work")
 
 ## Commands
-| Command    | Result                                                     |
+| Command    | Description                                                |
 | ---------- | ---------------------------------------------------------- |
 | `!`        | Print "Hello, World!" in the console                       |
 | `@`        | Init `counter` with default value (0) / set `counter` is 0 |
